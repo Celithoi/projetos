@@ -630,7 +630,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_css_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./assets/css/style.css */ "./src/assets/css/style.css");
 
 
-const key = 'pegar no site';
+const key = "4f25ade327e67eeb211c919afa1bd4d7";
 
 function inicia(){
     document.addEventListener('click', e => {

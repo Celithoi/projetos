@@ -1,6 +1,6 @@
 import './assets/css/style.css';
 
-const key = 'pegar no site';
+const key = process.env.CHAVE;
 
 function inicia(){
     document.addEventListener('click', e => {
